@@ -2,13 +2,9 @@
 <h3 align="center">Fueled by creativity and curiosity, Syntax Warrior🛡️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
 - 🌱 I’m currently learning **Tableau**
-
 - 💬 Talk to me in **Python**
-
 - 📫 How to reach me **hisree.p2k4@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
-
 - ⚡ Fun fact **Balancing between "it works!" and "why does it work?"**
 
 <h3 align="left">Connect with me:</h3>
