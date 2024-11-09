@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hisree.p2k4@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/6587cdc76517af8b23fb13a7](https://www.overleaf.com/project/6587cdc76517af8b23fb13a7)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
