@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiranmayeesree Pokala</h1>
-<h3 align="center">Collaborative computer science student with</h3>
+<h3 align="center">Passionate problem-solver and programming enthusiast, fueled by curiosity. Always ready to learn, debug, and occasionally cry over code — but in a fun way!</h3>
 
 - 💬 Ask me about **python, android studio**
 
