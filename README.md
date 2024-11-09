@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hiranmayeesree Pokala</h1>
-<h3 align="center">Passionate problem-solver and programming enthusiast, fueled by curiosity. Always ready to learn, debug, and occasionally cry over code — but in a fun way!</h3>
+<h3 align="center">Fueled by curiosity, Always ready to learn, debug, and occasionally cry over code — but in a fun way!</h3>
 
 - 💬 Ask me about **python, android studio**
 
 - 📫 How to reach me **hisree.p2k4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
 
 - ⚡ Fun fact **Balancing between "it works!" and "why does it work?"**
 
