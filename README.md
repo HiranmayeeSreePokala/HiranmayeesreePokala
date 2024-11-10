@@ -4,7 +4,7 @@
 - 💬 Talk to me in **Python**
 - 📫 How to reach me **hisree.p2k4@gmail.com**
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
-- 🌱 Debugging level: expert at creating more bugs than I fix!
+- 🌱 Debugging level **Expert at creating more bugs than I fix!**
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HiranmayeesreePokala.HiranmayeesreePokala&"  />
