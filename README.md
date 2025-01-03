@@ -35,18 +35,9 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="img/pandas.png" alt="pandas" width="50" height="50"/> </a> </p>
 
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HiranmayeesreePokala&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiranmayeesreePokala&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
