@@ -1,9 +1,9 @@
 <div>
     <img src="img/mario_wave.gif" width="60" height="60"/> 
-</div>
-<h1 align="center">Hi 👋, I'm Hiranmayee</h1>
-<h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
+    <h1 align="center">Hi 👋, I'm Hiranmayee</h1>
+    <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
+</div>
 - 💬 Talk to me in **Python**
 - 📫 How to reach me **hisree.p2k4@gmail.com**
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
