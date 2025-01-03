@@ -11,7 +11,7 @@
 - <img src="img/error.gif" height="18" width="18"/> Debugging level **Expert at creating more bugs than I fix!**
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
 
-<div>
+<div align="center">
 <a href="https://u8views.com/github/HiranmayeeSreePokala"><img src="https://u8views.com/api/v1/github/profiles/115624585/views/day-week-month-total-count.svg"></a>
 </div>
 
