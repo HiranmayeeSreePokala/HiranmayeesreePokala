@@ -10,9 +10,11 @@
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
 - <img src="img/error.gif" height="18" width="18"/> Debugging level **Expert at creating more bugs than I fix!**
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HiranmayeesreePokala&label=Profile%20Views&color=9&icon=8&pretty=false"  />
+
+<div>
+<a href="https://u8views.com/github/HiranmayeeSreePokala"><img src="https://u8views.com/api/v1/github/profiles/115624585/views/day-week-month-total-count.svg"></a>
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedin.png" alt="hiranmayeesree pokala" height="50" width="50" /></a>
