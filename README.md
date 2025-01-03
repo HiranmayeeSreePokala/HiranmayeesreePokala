@@ -2,8 +2,8 @@
     <img src="img/clapclap-e.gif" width="60" height="60"/> 
     <img src="img/clapclap-e.gif" width="60" height="60" align="right"/> 
 </div> -->
-<h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="30" height="30"/>, I'm Hiranmayee</h1>
-<h3 align="center">Fueled by creativity and curiosity <img src="img/linkedin_curious2.png" alt="curious thinking" height="20" width="20">, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
+<h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="30" height="30"/> I'm Hiranmayee</h1>
+<h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
 - 💬 Talk to me in **Python**
 - 📫 How to reach me **hisree.p2k4@gmail.com**
