@@ -35,5 +35,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="img/pandas.png" alt="pandas" width="50" height="50"/> </a> </p>
 
 
+  ![HiranmayeesreePokala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
 
 
