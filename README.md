@@ -1,5 +1,5 @@
 <div>
-    <img src="img/mario_wave.gif" width="60" height="60"/> 
+    <img src="img/mario_wave.gif" width="40" height="40"/> 
     <h1 align="center">Hi 👋, I'm Hiranmayee</h1>
     <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
