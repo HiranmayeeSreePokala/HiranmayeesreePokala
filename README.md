@@ -34,10 +34,11 @@
   <a href="https://platform.openai.com/docs/concepts" target="_blank" rel="noreferrer"> <img src="img/openai.png" alt="opencv" width="50" height="50"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="img/pandas.png" alt="pandas" width="50" height="50"/> </a> </p>
 
-
+<div>
 ![Stats](https://github-readme-stats.vercel.app/api?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+</div>
 
 
