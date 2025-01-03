@@ -11,10 +11,10 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedin.png" alt="hiranmayeesree pokala" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/hiranmae" target="blank"><img align="center" src="img/leetcode.png" alt="hiranmae" height="50" width="50" /></a>
-<a href="https://www.codechef.com/users/hiranmayee_04" target="blank"><img align="center" src="img/codechef.png" alt="hiranmayee_04" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/profile/hisree_p2k4" target="blank"><img align="center" src="img/hackerrank.png" alt="hisree_p2k4" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedin.png" alt="hiranmayeesree pokala" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/hiranmae" target="blank"><img align="center" src="img/leetcode.png" alt="hiranmae" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/hiranmayee_04" target="blank"><img align="center" src="img/codechef.png" alt="hiranmayee_04" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/hisree_p2k4" target="blank"><img align="center" src="img/hackerrank.png" alt="hisree_p2k4" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
