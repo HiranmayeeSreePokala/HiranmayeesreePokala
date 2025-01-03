@@ -11,7 +11,7 @@
 - <img src="img/error.gif" height="18" width="18"/> Debugging level **Expert at creating more bugs than I fix!**
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HiranmayeesreePokala.HiranmayeesreePokala&"  />
+  <img src="https://visitcount.itsvg.in/api?id=HiranmayeesreePokala&label=Profile%20Views&color=9&icon=8&pretty=false"  />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
