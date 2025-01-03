@@ -6,7 +6,7 @@
 <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
 - <img src="img/conversation.gif" height="18" width="18"/> Talk to me in **Python**
-- <img src="img/email.gif" height="18" width="18"/> How to reach me **hisree.p2k4@gmail.com**
+- <img src="img/triangle_mail.gif" height="18" width="18"/> How to reach me **hisree.p2k4@gmail.com**
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
 - <img src="img/error.gif" height="18" width="18"/> Debugging level **Expert at creating more bugs than I fix!**
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
