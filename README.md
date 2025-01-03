@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="img/mario_wave.gif" alt="Mario Waving" width="60" height="60" />
-  <h1>Hi 👋, I'm Hiranmayee</h1>
-</div>
-
+<!-- <div>
+    <img src="img/mario_wave.gif" width="60" height="60"/> 
+</div> -->
+<h1 align="center">Hi 👋, I'm Hiranmayee</h1>
+<img src="img/mario_wave.gif" target="blank" alt="mario dancing here" height="40" width="40">
 <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
 - 💬 Talk to me in **Python**
