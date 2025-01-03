@@ -1,7 +1,7 @@
-<div>
+<!-- <div>
     <img src="img/clapclap-e.gif" width="60" height="60"/> 
     <img src="img/clapclap-e.gif" width="60" height="60" align="right"/> 
-</div>
+</div> -->
 <h1 align="center">Hi 👋, I'm Hiranmayee</h1>
 <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
@@ -14,6 +14,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HiranmayeesreePokala.HiranmayeesreePokala&"  />
 </div>
 <h3 align="left">Connect with me:</h3>
+<img src="img/clapclap-e.gif" alt="congrats on connecting with me" height="20" width="20">
 <p align="left">
 <a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedin.png" alt="hiranmayeesree pokala" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/hiranmae" target="blank"><img align="center" src="img/leetcode.png" alt="hiranmae" height="50" width="50" /></a>
