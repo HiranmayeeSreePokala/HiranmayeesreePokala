@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="30" height="30"/>, I'm Hiranmayee</h1>
-<h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
+<h3 align="center">Fueled by creativity and curiosity <img src="img/meow_derpy.gif" alt="waving to you" width="30" height="30"/>, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
 
 - <img src="img/conversation.gif" height="18" width="18"/> Talk to me in **Python**
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedin.png" alt="hiranmayeesree pokala" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedinlogo.gif" alt="hiranmayeesree pokala" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/hiranmae" target="blank"><img align="center" src="img/leetcode.png" alt="hiranmae" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/hiranmayee_04" target="blank"><img align="center" src="img/codechef.png" alt="hiranmayee_04" height="50" width="50" /></a>
   <a href="https://www.hackerrank.com/profile/hisree_p2k4" target="blank"><img align="center" src="img/hr.png" alt="hisree_p2k4" height="40" width="40" /></a>
