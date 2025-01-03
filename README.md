@@ -1,10 +1,6 @@
 <!-- <div>
     <img src="img/mario_wave.gif" width="60" height="60"/> 
 </div> -->
-<div>
-    <img src="img/mario_wave.gif" width="60" height="60"/> 
-    <img src="img/mario_wave.gif" width="60" height="60" align="right"/> 
-</div>
 <h1 align="center">Hi 👋, I'm Hiranmayee</h1>
 <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
@@ -34,6 +30,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="img/git.png" alt="git" width="50" height="50"/> </a> 
   <a href="https://platform.openai.com/docs/concepts" target="_blank" rel="noreferrer"> <img src="img/openai.png" alt="opencv" width="50" height="50"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="img/pandas.png" alt="pandas" width="50" height="50"/> </a> </p>
+
+  <div>
+    <img src="img/mario_wave.gif" width="60" height="60"/> 
+    <img src="img/mario_wave.gif" width="60" height="60" align="right"/> 
+</div>
 
 
 
