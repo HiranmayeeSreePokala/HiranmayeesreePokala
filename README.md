@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="img/androidstudio.png" alt="android" width="50" height="50"/> </a> 
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="img/androidstudio.png" alt="android" width="46" height="46"/> </a> 
   <img width="12" /> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="img/python.png" alt="python" width="50" height="50"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="img/html5.png" alt="html5" width="50" height="50"/></a>
