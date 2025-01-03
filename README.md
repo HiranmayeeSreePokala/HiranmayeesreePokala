@@ -12,7 +12,7 @@
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HiranmayeesreePokala&label=Profile%20Views&color=9&icon=8&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=HiranmayeesreePokala&label=Profile%20Views&color=9&icon=8&pretty=false" width="90" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
