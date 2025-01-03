@@ -13,10 +13,7 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HiranmayeesreePokala.HiranmayeesreePokala&"  />
 </div>
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
-  <img src="img/clapclap-e.gif" alt="Congrats on connecting with me" height="20" width="20" />
-  <h3 style="margin: 0;">Connect with me:</h3>
-</div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hiranmayeesree/" target="blank"><img align="center" src="img/linkedin.png" alt="hiranmayeesree pokala" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/hiranmae" target="blank"><img align="center" src="img/leetcode.png" alt="hiranmae" height="50" width="50" /></a>
