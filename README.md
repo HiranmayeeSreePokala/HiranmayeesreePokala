@@ -2,10 +2,10 @@
     <img src="img/clapclap-e.gif" width="60" height="60"/> 
     <img src="img/clapclap-e.gif" width="60" height="60" align="right"/> 
 </div> -->
-<h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="30" height="30"/> I'm Hiranmayee</h1>
+<h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="30" height="30"/>, I'm Hiranmayee</h1>
 <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
-- 💬 Talk to me in **Python**
+- <img src="img/conversation.gif" height="10" width="10"/> Talk to me in **Python**
 - 📫 How to reach me **hisree.p2k4@gmail.com**
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
 - 🌱 Debugging level **Expert at creating more bugs than I fix!**
