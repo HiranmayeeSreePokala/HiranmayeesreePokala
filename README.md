@@ -10,7 +10,7 @@
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1Q8Qy3N1j6IuGPHZUJ5Xy8JKZkelEDurW/view?usp=sharing)
 - <img src="img/error.gif" height="18" width="18"/> Debugging level **Expert at creating more bugs than I fix!**
 - ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HiranmayeesreePokala.HiranmayeesreePokala&"  />
 </div>
 <h3 align="left">Connect with me:</h3>
