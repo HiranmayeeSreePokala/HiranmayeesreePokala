@@ -2,7 +2,7 @@
     <img src="img/clapclap-e.gif" width="60" height="60"/> 
     <img src="img/clapclap-e.gif" width="60" height="60" align="right"/> 
 </div> -->
-<h1 align="center">Hi <img src="img/clapclap-e.gif" alt="wave gif" width="40" height="40"/> 👋, I'm Hiranmayee</h1>
+<h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="20" height="20"/> 👋, I'm Hiranmayee</h1>
 <h3 align="center">Fueled by creativity and curiosity 🤹‍♂️, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
 
 - 💬 Talk to me in **Python**
