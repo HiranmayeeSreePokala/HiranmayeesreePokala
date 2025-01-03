@@ -25,7 +25,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="img/css3.png" alt="css3" width="50" height="50"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="img/java.png" alt="java" width="50" height="50"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="img/firebase.png" alt="firebase" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="img/git.png" alt="git" width="50" height="50"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="img/opencv.pngg" alt="opencv" width="50" height="50"/> </a> 
+  <a href="https://platform.openai.com/docs/concepts" target="_blank" rel="noreferrer"> <img src="img/openai.png" alt="opencv" width="50" height="50"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="img/pandas.png" alt="pandas" width="50" height="50"/> </a> </p>
 
 
