@@ -53,8 +53,8 @@
   <a href="https://platform.openai.com/docs/concepts" target="_blank" rel="noreferrer"> 
     <img src="img/openai.png" alt="opencv" width="50" height="50"/> 
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="img/pandas.png" alt="pandas" width="50" height="50"/> 
+  <a href="https://code.visualstudio.com/docs/setup/windows" target="_blank" rel="noreferrer"> 
+    <img src="img/vscode.png" alt="vscode" width="50" height="50"/> 
   </a>
   <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank" rel="noreferrer"> 
     <img src="img/latex.png" alt="latex" width="50" height="50"/> 
