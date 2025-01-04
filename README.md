@@ -35,7 +35,7 @@
     <img src="img/css3.png" alt="css3" width="50" height="50"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="img/java.png" alt="java" width="52" height="52"/> 
+    <img src="img/java.png" alt="java" width="52" height="50"/> 
   </a>
 </p>
 
