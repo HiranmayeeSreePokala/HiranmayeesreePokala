@@ -24,12 +24,14 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="img/androidstudio.png" alt="android" width="46" height="46"/> </a> 
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="img/androidstudio.png" alt="android" width="46" height="46"/> </a> 
   <img width="12" /> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="img/python.png" alt="python" width="50" height="50"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="img/html5.png" alt="html5" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="img/css3.png" alt="css3" width="50" height="50"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="img/java.png" alt="java" width="50" height="50"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="img/firebase.png" alt="firebase" width="50" height="50"/> </a> 
+  <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="img/java.png" alt="java" width="50" height="50"/> </a> -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="img/firebase.png" alt="firebase" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="img/git.png" alt="git" width="50" height="50"/> </a> 
   <a href="https://platform.openai.com/docs/concepts" target="_blank" rel="noreferrer"> <img src="img/openai.png" alt="opencv" width="50" height="50"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="img/pandas.png" alt="pandas" width="50" height="50"/> </a>
