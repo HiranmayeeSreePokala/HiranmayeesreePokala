@@ -34,9 +34,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="img/css3.png" alt="css3" width="50" height="50"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="img/java.png" alt="java" width="60" height="60"/> 
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Tools:</h3>
