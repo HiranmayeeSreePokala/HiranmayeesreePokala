@@ -51,7 +51,7 @@
     <img src="img/git.png" alt="git" width="50" height="50"/> 
   </a> 
   <a href="https://platform.openai.com/docs/concepts" target="_blank" rel="noreferrer"> 
-    <img src="img/chatgpt.gif" alt="opencv" width="46" height="40"/> 
+    <img src="img/chatgpt.gif" alt="opencv" width="50" height="44"/> 
   </a> 
   <a href="https://code.visualstudio.com/docs/setup/windows" target="_blank" rel="noreferrer"> 
     <img src="img/vscode.png" alt="vscode" width="50" height="50"/> 
