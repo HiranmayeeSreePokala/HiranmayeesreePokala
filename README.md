@@ -38,7 +38,7 @@
     <img src="img/java.png" alt="java" width="52" height="50"/> 
   </a>
   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> 
-    <img src="img/R.png" alt="java" width="50" height="50"/> 
+    <img src="img/R.png" alt="java" width="45" height="50"/> 
   </a>
 </p>
 
