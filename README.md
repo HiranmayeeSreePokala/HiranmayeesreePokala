@@ -25,9 +25,9 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">  -->
     <img src="img/python.png" alt="python" width="50" height="50"/> 
-  </a> 
+  <!-- </a>  -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="img/html5.png" alt="html5" width="50" height="50"/>
   </a>
