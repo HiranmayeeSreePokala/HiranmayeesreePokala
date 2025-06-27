@@ -26,10 +26,8 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
     <img src="img/python.png" alt="python" width="50" height="50"/>  
-    <img src="img/html5.png" alt="html5" width="50" height="50"/>
-    <img src="img/css3.png" alt="css3" width="50" height="50"/> 
     <img src="img/java.png" alt="java" width="52" height="50"/>  
-    <img src="img/R.png" alt="java" width="45" height="50"/> 
+    
 </p>
 
 
@@ -38,7 +36,6 @@
     <img src="img/androidstudio.png" alt="android" width="46" height="46"/> 
     <img src="img/firebase.png" alt="firebase" width="50" height="50"/> 
     <img src="img/git.png" alt="git" width="50" height="50"/> 
-    <img src="img/chatgpt.gif" alt="opencv" width="44" height="44"/> 
     <img src="img/vscode.png" alt="vscode" width="50" height="50"/> 
     <img src="img/latex.png" alt="latex" width="50" height="50"/> 
 </p>
