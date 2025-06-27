@@ -28,19 +28,19 @@
     <img src="img/python.png" alt="python" width="50" height="50"/>  
     <img src="img/java.png" alt="java" width="52" height="50"/> 
     <img src="img/database.png" alt="sql" width="52" height="50"/> 
-    
-    
-    
+    <img src="img/unix.png" alt="unix" width="46" height="46"/> 
+    <img src="img/mongodb.png" alt="mongodb" width="46" height="46"/> 
 </p>
 
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
     <img src="img/androidstudio.png" alt="android" width="46" height="46"/> 
-    <img src="img/firebase.png" alt="firebase" width="50" height="50"/> 
+    <!-- <img src="img/vscode.png" alt="vscode" width="50" height="50"/> 
+    <img src="img/latex.png" alt="latex" width="50" height="50"/>  -->
+    <img src="img/powerbi.png" alt="powerbi" width="46" height="46"/> 
     <img src="img/git.png" alt="git" width="50" height="50"/> 
-    <img src="img/vscode.png" alt="vscode" width="50" height="50"/> 
-    <img src="img/latex.png" alt="latex" width="50" height="50"/> 
+    <img src="img/firebase.png" alt="firebase" width="50" height="50"/> 
 </p>
 
 
