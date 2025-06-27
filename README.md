@@ -44,9 +44,9 @@
 </p>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiranmayeesreePokala&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Languages" height="180"/>
-</div>
+</div> -->
 
 
 
