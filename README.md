@@ -26,7 +26,10 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
     <img src="img/python.png" alt="python" width="50" height="50"/>  
-    <img src="img/java.png" alt="java" width="52" height="50"/>  
+    <img src="img/java.png" alt="java" width="52" height="50"/> 
+    <img src="img/database.png" alt="sql" width="52" height="50"/> 
+    
+    
     
 </p>
 
