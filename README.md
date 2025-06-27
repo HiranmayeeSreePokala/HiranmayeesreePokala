@@ -4,9 +4,9 @@
 
 - <img src="img/conversation.gif" height="18" width="18"/> Talk to me in **Python**
 - <img src="img/triangle_mail.gif" height="18" width="18"/> How to reach me **hisree.p2k4@gmail.com**
-- <img src="img/resume.gif" height="18" width="18"/> Know about me [Resume](https://drive.google.com/file/d/1MlaX6BvfrQyZCIMRi1QIpp6TTboJhJN-/view?usp=sharing)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1MlaX6BvfrQyZCIMRi1QIpp6TTboJhJN-/view?usp=sharing)
 - <img src="img/error.gif" height="18" width="18"/> Debugging level **Expert at creating more bugs than I fix!**
-- ⚡ Hidden Feature **Balancing between "it works!" and "why does it work?"**
+- ⚡ Hidden Feature **Balancing between "it works!" and "How does it work?"**
 
 
 <div align="center">
