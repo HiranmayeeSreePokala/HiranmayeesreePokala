@@ -38,7 +38,7 @@
     <img src="img/androidstudio.png" alt="android" width="46" height="46"/> 
     <!-- <img src="img/vscode.png" alt="vscode" width="50" height="50"/> 
     <img src="img/latex.png" alt="latex" width="50" height="50"/>  -->
-    <img src="img/powerbi.png" alt="powerbi" width="46" height="46"/> 
+    <img src="img/power bi.png" alt="power bi" width="46" height="46"/> 
     <img src="img/git.png" alt="git" width="50" height="50"/> 
     <img src="img/firebase.png" alt="firebase" width="50" height="50"/> 
 </p>
