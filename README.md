@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="img/mario_wave.gif" alt="waving to you" width="30" height="30"/>, I'm Hiranmayee</h1>
-<h3 align="center">Fueled by creativity and curiosity <img src="img/meow_derpy.gif" alt="waving to you" width="18" height="18"/>, Always ready to learn, debug, and occasionally cry over code - but in a fun way!</h3>
+<h3 align="center">I enjoy coding, learning, and fixing bugs <img src="img/meow_derpy.gif" alt="waving to you" width="18" height="18"/>, even when it gets a little frustrating – it's still fun!</h3> 
 
 
 - <img src="img/conversation.gif" height="18" width="18"/> Talk to me in **Python**
